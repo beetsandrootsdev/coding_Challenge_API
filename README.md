@@ -1,23 +1,23 @@
-#Telecom APIs
+#Telecom APIs#
 This challenge should take you ~30 minutes of time (let's keep it simple) and isn't related to any particular language, you can even implement it in pseudo-code, as we're more interested in your software design skills rather than knowing if you know all the array_* functions.
 
-#Background
+#Background#
 We are a TeleCom operator.
 
 In our DB, we are starting to store phone numbers associated to customers (1 customer : N phone numbers) and we will provide an API to modify them.
 
-We need 3 APIs:
+##We need 3 APIs:##
 
 1. get all phone numbers
 2. get all phone numbers of a single customer
 3. activate a phone number
 
-##Challenge
+##Challenge##
 Provide us the API endpoints (and HTTP methods) used to implement those 3 APIs.
 
 For each endpoint, describe a controller method (you decide which dependencies you can use) that implements the API.
 
-Example
+###Example###
 API description:
 
 retrieve a list of dogs
