@@ -1,5 +1,5 @@
 # Telecom APIs 
-This challenge should take you ~30 minutes of time (let's keep it simple) and isn't related to any particular language, you can even implement it in pseudo-code, as we're more interested in your software design skills rather than knowing if you know all the array_* functions.
+This challenge isn't related to any particular language, you can even implement it in pseudo-code, as we're more interested in your software design skills rather than knowing if you know all the array_* functions.
 
 # Background 
 We are a TeleCom operator.
